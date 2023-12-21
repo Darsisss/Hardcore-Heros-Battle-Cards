@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Jon Shuemaker - Cast Out of the Tribe.mp3-b37c419c01e08295cc10d24f87ab2674.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Jon Shuemaker - Cast Out of the Tribe.mp3"
+dest_files=[ "res://.import/Jon Shuemaker - Cast Out of the Tribe.mp3-b37c419c01e08295cc10d24f87ab2674.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

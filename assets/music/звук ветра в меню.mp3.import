@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/звук ветра в меню.mp3-1782880b0aea82496d7a70e614679f98.mp3str"
+
+[deps]
+
+source_file="res://assets/music/звук ветра в меню.mp3"
+dest_files=[ "res://.import/звук ветра в меню.mp3-1782880b0aea82496d7a70e614679f98.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
